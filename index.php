@@ -12,15 +12,26 @@ $html='
 </head>
 <body>
 
-<h1>PDF realizado con código puro</h1>
+<div>
+<h1>Generador de PDF</h1>
+<p></p>
+
+</div>
+
 <p>
-La bandera de Dominica tiene un fondo verde y tres líneas (una amarilla, una negra y la otra blanca) atravesando su centro de izquierda a derecha, y nuevamente de arriba abajo. En el centro, hay un círculo rojo con diez estrellas verdes en su borde y un loro sisserou en su centro
+Lorem ipsum dolor sit amet. Rem omnis sunt non dignissimos quam ex voluptates voluptatem vel galisum reiciendis. Quo harum nihil ut debitis doloribus et inventore dolores. Quo architecto blanditiis non velit quos sed animi mollitia eos odio voluptatem et omnis quod in illo consequatur quo quia cumque. 33 ratione suscipit ut officia mollitia cum totam voluptatem.
+
+Ut dolor itaque non dolorem suscipit sed suscipit labore eos impedit corrupti aut necessitatibus consequatur sed sunt ipsam. Ut doloribus neque non similique tenetur et dolorum libero. 
 </p><br>
 <p>
-La bandera de Dominica tiene un fondo verde y tres líneas (una amarilla, una negra y la otra blanca) atravesando su centro de izquierda a derecha, y nuevamente de arriba abajo. En el centro, hay un círculo rojo con diez estrellas verdes en su borde y un loro sisserou en su centro.
+Lorem ipsum dolor sit amet. Rem omnis sunt non dignissimos quam ex voluptates voluptatem vel galisum reiciendis. Quo harum nihil ut debitis doloribus et inventore dolores. Quo architecto blanditiis non velit quos sed animi mollitia eos odio voluptatem et omnis quod in illo consequatur quo quia cumque. 33 ratione suscipit ut officia mollitia cum totam voluptatem.
+
+Ut dolor itaque non dolorem suscipit sed suscipit labore eos impedit corrupti aut necessitatibus consequatur sed sunt ipsam. Ut doloribus neque non similique tenetur et dolorum libero. 
 </p></br>
 <p>
-La bandera de Dominica tiene un fondo verde y tres líneas (una amarilla, una negra y la otra blanca) atravesando su centro de izquierda a derecha, y nuevamente de 
+Lorem ipsum dolor sit amet. Rem omnis sunt non dignissimos quam ex voluptates voluptatem vel galisum reiciendis. Quo harum nihil ut debitis doloribus et inventore dolores. Quo architecto blanditiis non velit quos sed animi mollitia eos odio voluptatem et omnis quod in illo consequatur quo quia cumque. 33 ratione suscipit ut officia mollitia cum totam voluptatem.
+
+Ut dolor itaque non dolorem suscipit sed suscipit labore eos impedit corrupti aut necessitatibus consequatur sed sunt ipsam. Ut doloribus neque non similique tenetur et dolorum libero. 
 </p>
 </body>
 </html>
